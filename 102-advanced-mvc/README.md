@@ -14,7 +14,7 @@ The I/O access is source of new possible unpredicted situations, that should be 
 
 Currently, the game settings (minimum, maximum, and number of allowed attempts) are hard-coded.
 Modify the application in such a way that those settings are read from the supplied configuration file.
-The default configuration file is available in the path `src/main/resources/config.yml`.
+The default configuration file is available in the path `"src/main/resources/config.yml"`.
 
 ### Suggestions
 
